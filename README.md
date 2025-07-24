@@ -1,2 +1,2 @@
-# pyhton_learning
+# python_learning
 trying out python
