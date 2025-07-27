@@ -5,7 +5,6 @@ def collatz(number):
         result = 3 * number + 1
     print(result, end=' ')
     return result
-
 def main():
     try:
         number = int(input("Enter an integer: "))
