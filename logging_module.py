@@ -2,7 +2,7 @@ import logging
 logging.basicConfig(filename='myProgramLog.txt', level=logging.DEBUG,
 format=' %(asctime)s -  %(levelname)s -  %(message)s')
  
- # let's you specify what details you want to see and how you want those details be displayed
+# let's you specify what details you want to see and how you want those details be displayed
 # the filename lets you write to a file directly instead of showing the debug messages on the screen
 # The level is to show the level of logging messgae we want to see,.Debug,.info,.warning,.critical are all levels of logging messages
 # the format specifies how the log messages will be displayed, including a timestamp, the level of the message, and the actual message itself.
