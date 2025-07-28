@@ -14,4 +14,8 @@ import shutil # used to copy,delete,rename,remove files and directory
 import send2trash # used to send files to trash and better than shutil
 import re # regular expressions
 import zipfile # used to read and write zip files
+import webbrowser # used to open web pages in the default browser
+import pyperclip # used to copy and paste text to clipboard
+import requests #make HTTP requests,get data from web APIs,download files from the web
+
 
