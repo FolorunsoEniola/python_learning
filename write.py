@@ -30,3 +30,13 @@ with open("bacon.txt", "a") as bacon_file:
 with open("bacon.txt", "r") as bacon_file:
     content = bacon_file.read()
 print(content)
+
+from pathlib import Path
+h = Path.home() # this opens the home directory
+g = h / 'python_learning' # this opens the home/python_learning directory
+with open(g / 'toomuch.txt', 'w') as f: # open g as file in w mode
+    f.write('i want to write to this file\n and this is the second line ')
+     # write with .write method
+    
+
+
