@@ -16,6 +16,6 @@ import re # regular expressions
 import zipfile # used to read and write zip files
 import webbrowser # used to open web pages in the default browser
 import pyperclip # used to copy and paste text to clipboard
+import bs4 # used for web scraping and parsing HTML and XML documents
 import requests #make HTTP requests,get data from web APIs,download files from the web
-
-
+import openpyxl # used to read and write Excel files
