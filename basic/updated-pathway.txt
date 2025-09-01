@@ -1,0 +1,89 @@
+You're right—here’s the same roadmap with all the links in a copy-paste-friendly format so you can open them directly:
+
+
+---
+
+🚀 NetDevOps Roadmap (with Free Resources)
+
+✅ PHASE 1: Python for Automation Basics
+
+> Learn scripting, YAML/JSON, file handling
+
+
+
+📘 Automate the Boring Stuff:
+https://automatetheboringstuff.com/
+
+🎥 FreeCodeCamp Python Full Course:
+https://youtu.be/rfscVS0vtbw
+
+🧠 Python Practice – Exercism:
+https://exercism.org/tracks/python
+
+
+
+---
+
+✅ PHASE 2: Python for Network Automation
+
+📧 Kirk Byers' Free Python Course (Email):
+https://pynet.twb-tech.com/email-signup.html
+
+🎥 David Bombal Netmiko/NAPALM Playlist:
+https://youtube.com/playlist?list=PLhfrWIlLOoKPn1N4X2MFuuFsb6xgxQ5vw
+
+🧰 Netmiko GitHub:
+https://github.com/ktbyers/netmiko
+
+
+
+---
+
+✅ PHASE 3: Ansible + Network + Python
+
+📘 Ansible Network Docs:
+https://docs.ansible.com/network/
+
+🎥 David Bombal – Ansible + Python videos:
+https://www.youtube.com/@DavidBombal/search?query=ansible%20python
+
+✅ Ansible Networking GitHub Examples:
+https://github.com/network-automation
+
+
+
+---
+
+✅ PHASE 4: REST APIs + Python Integration
+
+🧰 Postman (for testing APIs):
+https://www.postman.com/
+
+📘 Python REST APIs (Real Python):
+https://realpython.com/api-integration-in-python/
+
+🔌 Cisco DevNet Sandbox Labs:
+https://developer.cisco.com/docs/dnas/#!dna-center-platform-overview
+
+
+
+---
+
+✅ PHASE 5: DevOps Essentials for NetDevOps
+
+🎥 Python for DevOps – FreeCodeCamp:
+https://youtu.be/9L77QExPmI0
+
+🎥 Git & GitHub Crash Course:
+https://youtu.be/RGOj5yH7evk
+
+📘 Python for DevOps Book GitHub Examples:
+https://github.com/pythondevopsbook/examples
+
+
+
+---
+
+⚡ Optional: Turn This into a Google Doc?
+
+Would you like me to compile this into a downloadable Google Doc or PDF with checkboxes, resources, and progress tracking? I can do that next.
